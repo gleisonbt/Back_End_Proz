@@ -10,7 +10,7 @@
             <label for="senha">Senha: </label>
             <input type="password" name="senha"><br><br>
 
-            <button type="submit">Enviar</button>
+            <button type="submit">Enviar Formulario</button>
         </form>
     </body>
 </html>
