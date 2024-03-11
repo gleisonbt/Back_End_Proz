@@ -3,6 +3,7 @@
         <title>Login</title>
     </head>
     <body>
+        <h2>Form Login</h2>
         <form action="validaLogin.php" method="post">
             <label for="login">Login: </label>
             <input type="text" name="login"><br><br>
